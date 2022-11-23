@@ -1,11 +1,11 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: SAW WAI LWIN
+      * Date: 23/11/2022
+      * Purpose: TRAINING PGM
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. YOUR-PROGRAM-NAME.
+       PROGRAM-ID. COBOLRD1.
 
        ENVIRONMENT DIVISION.
            INPUT-OUTPUT SECTION.
@@ -93,4 +93,4 @@
             STOP RUN.
        STOP-PARA.
            STOP RUN.
-       END PROGRAM YOUR-PROGRAM-NAME.
+       END PROGRAM COBOLRD1.
