@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author: SAWWAILWIN
+      * Author: SAW WAI LWIN
       * Date: 14/11/2022
       * Purpose: TRAINING PGM
       * Tectonics: cobc
