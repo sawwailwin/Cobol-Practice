@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: SAWWAILWIN
+      * Date: 14/11/2022
+      * Purpose: TRAINING PGM
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
